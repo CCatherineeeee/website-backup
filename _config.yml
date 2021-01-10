@@ -1,2 +1,3 @@
 name: Yifan Chen (also goes with Catherine)
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
